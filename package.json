@@ -1,0 +1,19 @@
+{
+  "name": "poker10m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AayushMaurya/Poker10m.git"
+  },
+  "author": "aayush10m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AayushMaurya/Poker10m/issues"
+  },
+  "homepage": "https://github.com/AayushMaurya/Poker10m#readme"
+}
